@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dew97-tech
 - 👀 I’m interested in Automation , Machine Learning , App Development
-- 🌱 I’m currently learning : JavaScript,React.
+- 🌱 I’m currently learning : ``JavaScript,``React.
 - 📫 How to reach me : dewmallick97.bd@gmail.com
 - :envelope: Ask Me About My Work ...
 
