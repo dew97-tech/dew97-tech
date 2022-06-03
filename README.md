@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dew97-tech
 - 👀 Interested in : Automation , Machine Learning , App Development
-- :mechanical_arm: My Expertise :``HTML`` , ``CSS``,``SASS``,``Bootstrap``,``Styled-Components``,``JavaScript``,``NodeJS``,``ExpressJS``
+- :mechanical_arm: My Expertise :``HTML`` , ``CSS``,``SASS``,``Bootstrap``,``Styled-Components``,``JavaScript``,``NodeJS``,``ExpressJS``,``ReactJS``,``MongoDB``
 - 🌱 Currently learning : ~~JavaScript~~,~~React~~,Redux,
 - 📫 How to reach me : dewmallick97.bd@gmail.com , david.dew.mallick@g.bracu.ac.bd
 - :envelope: Ask Me About My Work ...
