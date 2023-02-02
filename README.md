@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **david.dew.mallick@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12tJpT1jchHOw1gDaa54IFaIQkWcCxEVw/view?usp=share_link](https://drive.google.com/file/d/12tJpT1jchHOw1gDaa54IFaIQkWcCxEVw/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12tJpT1jchHOw1gDaa54IFaIQkWcCxEVw/view?usp=share_link](My Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
