@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dall.E-Stable-Diffusion-Clone](https://github.com/dew97-tech/dew97-tech-Dall.E-Stable-Diffusion-Clone)
 
-- 🌱 I’m currently learning **The Complete Web Developer Bootcamp 2023 from Udemy**
+- 🌱 I’m currently learning **Redux, Redux Thunk, NextJs **
 
 - 💬 Ask me about **my work or anything about my projects**
 
