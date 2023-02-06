@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **david.dew.mallick@g.bracu.ac.bd**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12tJpT1jchHOw1gDaa54IFaIQkWcCxEVw/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1e4dttXA5xbckW6A4J563iva20NcrdPPF/view?usp=share_link)
 
 - ⚡ Fun fact **I think. .......... oh, I forgot :)**
 
