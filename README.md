@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dewmallick" target="blank"><img src="https://img.shields.io/twitter/follow/dewmallick?logo=twitter&style=for-the-badge" alt="dewmallick" /></a> </p>
 
-- 🔭 I’m currently working on [Dall.E-Stable-Diffusion-Clone](https://github.com/dew97-tech/dew97-tech-Dall.E-Stable-Diffusion-Clone)
+- 🔭 I’m currently working on [Dall.E-Stable-Diffusion-Clone MERN stack](https://github.com/dew97-tech/dew97-tech-Dall.E-Stable-Diffusion-Clone)
 
 - 🌱 I’m currently learning **Redux, Redux Thunk, NextJs **
 
