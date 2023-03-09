@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dall.E-Stable-Diffusion-Clone MERN stack](https://github.com/dew97-tech/dew97-tech-Dall.E-Stable-Diffusion-Clone)
 
-- 🌱 I’m currently learning **Full Stack Web Developer Learning Path On Codedamn **(https://codedamn.com/user/dew97codedamn)
+- 🌱 I’m currently learning [Full Stack Web Developer Learning Path](https://codedamn.com/user/dew97codedamn)
 
 - 💬 Ask me about **my work or anything about my projects**
 
