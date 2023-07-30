@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Dew Mallick</h1>
-<h3 align="center">A self-taught who is passionate about creating and building projects.My goal is to continue learning and growing as a developer, and to use my skills to create impactful and meaningful projects. I am excited to share my work and collaborate with others in the development community. I believe in relying on myself and taking initiative to bring my ideas to life.</h3>
+<h3 align="center">A self-taught who is passionate about creating and building projects.My goal is to continue learning and growing as a developer, and to use my skills to create impactful and meaningful projects. I am excited to share my work and collaborate with others in the development community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dew97-tech&label=Profile%20views&color=615ff2&style=flat" alt="dew97-tech" /> </p>
 
