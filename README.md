@@ -1,5 +1,5 @@
 # Hi 👋, I'm David Dew Mallick
-## Experienced Software Engineer | Passionate about creating impactful projects and continuous learning 🚀
+## Software Engineer | Passionate about creating impactful projects and continuous learning 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dew97-tech&label=Profile%20views&color=615ff2&style=flat)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dewmallick?logo=twitter&style=for-the-badge)
