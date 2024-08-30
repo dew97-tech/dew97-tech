@@ -1,4 +1,4 @@
-# 👋 Hello, I'm David Dew Mallick !
+# 👋 Hello, I'm David Dew Mallick ! ![Visitor Count](https://komarev.com/ghpvc/?username=dew97-tech&color=blue)
 
 **Software Engineer | React | Next.js | Laravel**
 
@@ -57,7 +57,5 @@ I am a passionate and dedicated software engineer with a strong focus on buildin
 - **Ultimate React.js Design Patterns** | [View Certificate](https://codedamn.com/certificate/verify/471937247c70b49bd050675c9a4927769e02685b)
 - **Advanced React Concepts** | [View Certificate](https://codedamn.com/certificate/verify/f9e8640bab3b12ab9118169dd26dcc2646c9cd2e)
 - **Git Masterclass** | [View Certificate](https://codedamn.com/certificate/verify/54c271b1cf069e624b1bc8371669d75e78890def)
-
-
 
 ---
