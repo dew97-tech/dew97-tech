@@ -21,7 +21,7 @@ I am a passionate and dedicated software engineer with a strong focus on buildin
 
 ## Key Projects 🌟
 
-### 1. [Maison Ensemble](https://maison-kandari-ensamble.vercel.app/)
+### 1. [Maison Ensemble](https://maison-kandari-ensemble.vercel.app/)
 - **Description**: A French language learning platform offering interactive exercises, video learning, and achievement tracking.
 - **Technologies**: Next.js, React.js, ReactContext
 - **[GitHub Repository](https://github.com/dew97-tech/Kandari-Ensamble)**
