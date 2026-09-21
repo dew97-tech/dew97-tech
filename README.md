@@ -1,25 +1,25 @@
-# 👋 Hello, I'm David Dew Mallick ! ![Visitor Count](https://komarev.com/ghpvc/?username=dew97-tech&color=blue)
+# Hello, I'm David Dew Mallick ! ![Visitor Count](https://komarev.com/ghpvc/?username=dew97-tech&color=blue)
 
 **Software Engineer | React | Next.js | Laravel**
 
 ---
 
-## About Me 👨‍💻 
+## About Me 
 
 I am a passionate and dedicated software engineer with a strong focus on building scalable, efficient, and user-friendly applications. With experience in both frontend and backend development, I have honed my skills in frameworks like React, Next.js, and Laravel. My professional journey has been shaped by my ability to translate complex business requirements into effective software solutions, and I take pride in my leadership and problem-solving capabilities.
 
-## Connect with Me 📍
+## Connect with Me 
 - **LinkedIn**: [David Dew Mallick](https://www.linkedin.com/in/david-dew-mallick-618a6223b)
 - **GitHub**: [dew97-tech](https://github.com/dew97-tech)
 
-## Professional Summary 💼
+## Professional Summary 
 
 - **Experience**: Proven track record in full-stack development with expertise in frontend (React, Next.js) and backend (Laravel, PHP).
 - **Technical Skills**: Skilled in modern JavaScript (ES6), PHP, SQL (PostgreSQL, MySQL), and responsive design using HTML/CSS.
 - **Leadership**: Successfully led development teams, ensuring project completion and fostering a collaborative environment.
 - **Communication**: Strong verbal and written communication skills, facilitating effective collaboration and project management.
 
-## Key Projects 🌟
+## Key Projects 
 
 ### 1. [Maison Ensemble](https://maison-kandari-ensemble.vercel.app/)
 - **Description**: A French language learning platform offering interactive exercises, video learning, and achievement tracking.
