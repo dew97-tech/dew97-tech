@@ -1,11 +1,11 @@
 # David Dew Mallick
 
-Software engineer building full-stack web products and Linux desktop tooling.
+Software engineer building full-stack web products.
 
 ```text
 role      Software Engineer
-focus     Full-stack web / Linux and Omarchy tooling
-stack     TypeScript · React · Next.js · Laravel · Python · QML
+focus     Full-stack web / product engineering
+stack     TypeScript · React · Next.js · Laravel · Python
 based     Dhaka, Bangladesh
 web       davidmallick.dev
 ```
@@ -17,18 +17,6 @@ web       davidmallick.dev
 Portfolio and publishing pipeline that drafts, fact-checks, researches, and measures articles from one admin dashboard. The live site is [davidmallick.dev](https://davidmallick.dev).
 
 `Next.js 16` · `React 19` · `TypeScript` · `Prisma` · `Supabase`
-
-### [Animated Dock](https://github.com/Davedes83/animated-dock)
-
-Fisheye dock for the Omarchy shell with Gaussian magnification, smart hide/reveal, and window controls.
-
-`QML` · `Quickshell` · `Hyprland`
-
-### [OmaControl](https://github.com/Davedes83/OmaControl)
-
-Task manager and historical resource monitor for the Omarchy top bar, with process enforcement and privacy alerts.
-
-`QML` · `Quickshell`
 
 ### [Maison Ensemble](https://github.com/dew97-tech/Kandari-Ensamble)
 
@@ -42,43 +30,33 @@ Inventory management system for products, categories, brands, and stock.
 
 `Laravel` · `MySQL` · `React`
 
-### [Workspace Restorer](https://github.com/Davedes83/workspace-restorer)
+### [Dall.E Clone](https://github.com/dew97-tech/dew97-tech-Dall.E-Stable-Diffusion-Clone)
 
-Snapshots window layouts and restores each app to its exact workspace, position, and floating or fullscreen state.
+Full-stack AI image generation app built on the MERN stack.
 
-`QML` · `Hyprland`
+`MongoDB` · `Express` · `React` · `Node.js`
 
-## 02 / Project Index
+### [Resume Rocket](https://github.com/dew97-tech/Resume-Rocket)
 
-### Web and product
+Client-side A4 resume builder with live pagination, drag-and-drop ordering, and PDF export.
+
+`React 19` · `Vite`
+
+### [serpKit](https://github.com/dew97-tech/serpKit)
+
+Self-hosted Google SERP collector and JSON API that replaces paid per-call search services.
+
+`Python`
+
+## 02 / Additional Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Resume Rocket](https://github.com/dew97-tech/Resume-Rocket) | Client-side A4 resume builder with live pagination and PDF export. | React 19, Vite |
-| [serpKit](https://github.com/dew97-tech/serpKit) | Self-hosted Google SERP collector and JSON API that replaces paid per-call services. | Python |
 | [Trend Discover](https://github.com/dew97-tech/trend-discover) | Local-first engineering trend intelligence that scores topics and drafts posts. | PHP, TypeScript |
-| [Dall.E Clone](https://github.com/dew97-tech/dew97-tech-Dall.E-Stable-Diffusion-Clone) | Full-stack AI image generation app built on the MERN stack. | MongoDB, Express, React, Node |
 | [Blockbuster](https://github.com/dew97-tech/MovieBuddy) | Movie and TV discovery platform. | React |
 | [Modern Ticket Management System](https://github.com/dew97-tech/Pro-IT-Solution) | Vendor ticketing system for servicing, repairing, and tracking products. | Laravel, React, MySQL |
 
-### Linux and Omarchy
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [OmaDoctor](https://github.com/Davedes83/OmaDoctor) | Read-only system health checks with plain-language explanations and redacted diagnostic reports. | Shell |
-| [Mouse and Keybind Plugin](https://github.com/Davedes83/mouse-keybind-plugin) | Pointer settings and Hyprland keybinding management from one bar icon. | QML |
-| [FossFetch](https://github.com/Davedes83/fossfetch) | Package search across Arch repositories, AUR, and Flathub from the Omarchy bar. | QML |
-| [Net Speed Widget](https://github.com/Davedes83/omarchy-netspeed-plugin) | Real-time network speed and traffic widget for the Omarchy bar. | QML |
-| [Mountain Landscape Theme](https://github.com/Davedes83/omarchy-mountain-landscape-theme) | Dark mountain landscape theme for Omarchy. | Omarchy |
-| [Purple Rising Theme](https://github.com/Davedes83/omarchy-purple-rising-theme) | Dark cosmic purple theme for Omarchy. | Omarchy |
-
-### Tools and automation
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [BuildBook](https://github.com/Davedes83/BuildBook-Updates) | Public download mirror and update manifest for the BuildBook bill-of-quantities app. | Android |
-| [Databuild API Script](https://github.com/Davedes83/Databuild-API-Script) | Exports approved Databuild projects to Excel, CSV, and JSON for Copilot agents. | Python |
-| [Plans BOQ Reader](https://github.com/Davedes83/plans-boq-copilot-knowledge) | Knowledge source for a Copilot agent working with construction BOQ data. | Python |
+More repositories: [github.com/dew97-tech](https://github.com/dew97-tech?tab=repositories)
 
 ## 03 / Publications
 
@@ -96,4 +74,3 @@ Snapshots window layouts and restores each app to its exact workspace, position,
 - Website: [davidmallick.dev](https://davidmallick.dev)
 - LinkedIn: [David Dew Mallick](https://www.linkedin.com/in/david-dew-mallick/)
 - GitHub: [dew97-tech](https://github.com/dew97-tech)
-- Omarchy projects: [Davedes83](https://github.com/Davedes83)
