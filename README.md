@@ -60,9 +60,9 @@ More projects: [E-Commerce React Stripe](https://github.com/dew97-tech/E-Commerc
 
 ## 03 / Writing
 
-- [Fix Table Bloat for Better Query Optimization](https://davidmallick.dev/blog/table-bloat-query-optimization) — Oct 20, 2026
-- [Laravel Best Practices: Design Patterns That Scale](https://davidmallick.dev/blog/laravel-best-practices-design-patterns) — Oct 20, 2026
-- [JavaScript Array Methods: The Hidden Cost](https://davidmallick.dev/blog/javascript-array-methods-hidden-cost) — Oct 20, 2026
+- [Fix Table Bloat for Better Query Optimization](https://davidmallick.dev/blog/table-bloat-query-optimization) - Oct 20, 2026
+- [Laravel Best Practices: Design Patterns That Scale](https://davidmallick.dev/blog/laravel-best-practices-design-patterns) - Oct 20, 2026
+- [JavaScript Array Methods: The Hidden Cost](https://davidmallick.dev/blog/javascript-array-methods-hidden-cost) - Oct 20, 2026
 
 More writing: [davidmallick.dev/blog](https://davidmallick.dev/blog)
 
@@ -73,9 +73,9 @@ More writing: [davidmallick.dev/blog](https://davidmallick.dev/blog)
 
 ## 05 / Certifications
 
-- [Ultimate React.js Design Patterns](https://codedamn.com/certificate/verify/471937247c70b49bd050675c9a4927769e02685b) — Codedamn
-- [Advanced React Concepts](https://codedamn.com/certificate/verify/f9e8640bab3b12ab9118169dd26dcc2646c9cd2e) — Codedamn
-- [Git Masterclass](https://codedamn.com/certificate/verify/54c271b1cf069e624b1bc8371669d75e78890def) — Codedamn
+- [Ultimate React.js Design Patterns](https://codedamn.com/certificate/verify/471937247c70b49bd050675c9a4927769e02685b)
+- [Advanced React Concepts](https://codedamn.com/certificate/verify/f9e8640bab3b12ab9118169dd26dcc2646c9cd2e)
+- [Git Masterclass](https://codedamn.com/certificate/verify/54c271b1cf069e624b1bc8371669d75e78890def)
 
 ## 06 / Connect
 
